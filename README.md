@@ -14,3 +14,6 @@ software dev tools
 
 # 显卡测试
 ## FurMark [download](http://geeks3d.com/furmark/downloads/)
+
+# CPU 测试
+## cpu-z [download](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.94-cn.exe)
