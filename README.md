@@ -8,6 +8,9 @@ software dev tools
 # 解压缩 compress
 ## 7zip [download url](https://www.7-zip.org/)
 
+# 脱壳 
+## resourcehacker [download url](http://www.angusj.com/resourcehacker/)
+
 # Search file in Windows
 
 ## everything[download url](https://www.voidtools.com/)
