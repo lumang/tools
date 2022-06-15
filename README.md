@@ -27,3 +27,6 @@ software dev tools
 # CPU温度监控
 
 ## CoreTemp [download](https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe)
+
+# Reinstall OS
+## Rufus 3.18[download](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe)
