@@ -7,7 +7,7 @@ software dev tools
 
 # 解压缩 compress
 ## 7zip [download url](https://www.7-zip.org/)
-
+## Caesium Image Compressor *** [download url](https://saerasoft.com/caesium/#downloads)
 # 脱壳 
 ## resourcehacker [download url](http://www.angusj.com/resourcehacker/)
 
