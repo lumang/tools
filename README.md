@@ -34,6 +34,7 @@ software dev tools
 # embedded software dev
 ## keil
 ## STM32CubeMX
-#电子书 e-book
-##[脚本之家](https://www.jb51.net/)
-##[英文版计算机书籍](salttiger.com/archives/)
+## [stm32-arm-programming-tutorials](https://deepbluembedded.com/stm32-arm-programming-tutorials/)
+# 电子书 e-book
+## [脚本之家](https://www.jb51.net/)
+## [英文版计算机书籍](salttiger.com/archives/)
